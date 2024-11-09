@@ -5,5 +5,7 @@
  
  
 * Im just a student so im sorry if my code isnt good enough :D
+$pip install pyperclip
+  
  
  
